@@ -1,2 +1,4 @@
 # rd_usabledrugs
 Usable Pills Script (xpills included)
+MAKE SURE TO CHECK INSTALLMEFIRST!
+CHECK OUT THE SUPPORT REPOSITORY FOR CORD 
